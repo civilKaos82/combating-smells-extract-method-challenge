@@ -1,6 +1,6 @@
 # Combating Smells: Extract Method
 
-##Summary
+## Summary
 As we become more experienced developers, we'll begin to develop a sense for problems in code.  We'll notice qualities in the code that give us pause.  Something about the code won't look or feel right.  We call these qualities code smells.
 
 Code smells are signals that portions of code could be improved. Identifying smelly code is not enough because all code has smells. Choosing which smells to address and which to ignore is a key survival skill.  When we do decide to fix a smell, we need to know how to improve the code.
